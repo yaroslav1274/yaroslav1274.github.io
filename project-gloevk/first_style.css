@@ -1,0 +1,169 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #444444;
+}
+
+header {
+	min-width: 552px;
+	height: 186px;
+	margin-bottom: 70px;
+	padding-top: 30px;
+	color: #ffffff;
+	background: #847462 center url("img/4a689562637ffe31a94e1770388395f8.jpg");
+	background-size: cover;
+}
+
+header p {
+	width: 255px;
+	margin: 0 auto 26px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 24px;
+	background-color: rgba(105, 105, 105, 0.7);
+}
+
+h1 {
+	width: 255px;
+	margin: 0 auto 8px;
+	font-family: "Georgia", serif;
+	text-align: center;
+	font-weight: normal;
+	font-size: 55px;
+	line-height: 64px;
+	background-color: rgba(105, 105, 105, 0.7);
+}
+
+h2 {
+	border-bottom: 2px solid #cccccc;
+	padding-bottom: 12px;
+}
+
+.container {
+	width: ;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.features {
+	width: 510px;
+	margin: 0 auto 30px;
+	padding: 0 20px;
+}
+
+.features p {
+	 display: inline-block;
+   	 vertical-align: top;
+ 	 width: 30%;
+ 	 margin: 0 5px;
+ 	 background-repeat: no-repeat;
+ 	 background-position: center top;
+ 	 text-align: center;
+}
+
+.fruits {
+	padding-top: 65px;
+	background-image: url("img/iconfinder_Fruits_and_Vegetables_fruit_food_apple_6593806.svg");
+}
+
+.vegetables {
+	padding-top: 65px;
+	background-image: url("img/iconfinder_Fruits_and_Vegetables_vegetable_food_salad_lettuce_cabbage_6593803.svg");
+}
+
+.meat {
+	padding-top: 65px;
+	background-image: url("img/iconfinder_meat_5404327.svg");
+}
+
+.fish {
+	padding-top: 65px;
+	background-image: url("img/iconfinder_fish_5404332.svg");
+	position: relative;
+	left: 90px;
+}
+
+.milk-products {
+	padding-top: 65px;
+	background-image: url("img/iconfinder_milk_5404326.svg");
+	position: relative;
+	left: 100px;
+}
+
+strong {
+	position: relative;
+	top: 20px;
+	border-bottom: 2px solid black;
+}
+
+.components-of-health {
+	width: 510px;
+	padding: 0 20px;
+	margin: 0 auto 30px;
+}
+
+.component {
+	padding: 0;
+	list-style: none;
+}
+
+.component-list-item1 {
+	padding-left: 20px;
+	margin-bottom: 15px;
+	border-left: 15px solid red;
+	color: #000000;
+	text-decoration: line-through;
+}
+
+.component-list-item2 {
+	padding-left: 20px;
+	margin-bottom: 15px;
+	border-left: 15px solid lawngreen;
+	color: #000000;
+}
+
+.help-for-you {
+	width: 510px;
+	margin: 0 auto 40px;
+	padding: 0 20px;
+}
+
+.help-list {
+	padding: 0;
+	list-style: none;
+}
+
+.help-list-item {
+	padding-left: 20px;
+	margin-bottom: 10px;
+	border-left: 15px solid lawngreen;
+	color: black;
+	transition: transform 5s ease-in-out;
+}
+.help-list-item:hover {
+	font-weight: bold;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+footer {
+	min-width: 550px;
+	background-color: khaki;
+	color: #444444;
+}
+
+footer .container1 {
+	text-align: center;
+}
+
+footer p {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0 20px;
+}
